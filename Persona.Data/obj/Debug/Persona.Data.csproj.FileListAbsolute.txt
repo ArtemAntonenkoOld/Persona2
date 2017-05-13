@@ -1,0 +1,10 @@
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\bin\Debug\Persona.Data.dll.config
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\bin\Debug\Persona.Data.dll
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\bin\Debug\Persona.Data.pdb
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\bin\Debug\EntityFramework.dll
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\bin\Debug\EntityFramework.xml
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\obj\Debug\Persona.Data.csprojResolveAssemblyReference.cache
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\obj\Debug\Persona.Data.dll
+c:\Users\ghhfg\documents\visual studio 2015\Persona.Data\obj\Debug\Persona.Data.pdb
